@@ -10,7 +10,12 @@ The Medical Decision Support System (MDSS) is a Django-based web application des
 - **Admin Interface**: Customized Django admin interface for managing patients and diagnostic records.
 - **Security**: Authentication and authorization mechanisms to restrict access to sensitive patient data.
 
+## Scenario
+Imagine you are a healthcare professional using the MDSS to assist in diagnosing a patient presenting with symptoms of fever, cough, and fatigue. You enter the patient's information and symptoms into the system to generate a list of possible diagnoses and treatment recommendations based on medical guidelines and historical data.
+
 ## Installation
+Follow these steps to set up and run the MDSS on your local machine:
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Estherkarl/Medical-Decision-Support-System.git
