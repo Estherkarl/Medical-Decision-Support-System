@@ -8,7 +8,7 @@ The Medical Decision Support System (MDSS) is a Django-based web application des
 - **Inference Engine**: Utilizes an inference engine (e.g., PyKnow) to process symptoms and generate diagnostic suggestions based on predefined rules.
 - **RESTful API**: Provides APIs using Django REST Framework for interacting with patient data programmatically.
 - **Admin Interface**: Customized Django admin interface for managing patients and diagnostic records.
-- **Security**: Authentication and authorization mechanisms to restrict access to sensitive patient data.
+  
 
 ## Scenario
 Imagine you are a healthcare professional using the MDSS to assist in diagnosing a patient presenting with symptoms of fever, cough, and fatigue. You enter the patient's information and symptoms into the system to generate a list of possible diagnoses and treatment recommendations based on medical guidelines and historical data.
